@@ -98,3 +98,8 @@ a:link, a:visited, a:hover, a:active{
   font-size: 16px;
   color: #fff;
 }
+.table.table-bordered th,
+.table.table-bordered td{
+  text-align: center;
+  vertical-align: middle;
+}
