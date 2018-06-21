@@ -1,0 +1,35 @@
+/* 内容区域 */
+img{
+  display: block;
+  width: 100%;
+}
+.nav li{
+  float: left;
+  width: 33.33%;
+}
+.nav{
+  padding: 10px;
+}
+/* 商品区域 */
+.lt_product{
+  padding: 10px;
+}
+.lt_product a{
+  display: block;
+  float: left;
+  width: 48%;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.lt_product a:nth-child(even){
+  margin-left: 4%;
+}
+.lt_product a .price{
+  color: red;
+}
+.lt_product a .old_price{
+  text-decoration: line-through;
+}

@@ -221,6 +221,7 @@ $(function(){
 
           //重置数组
           imgs = [];
+          $("#addModal").modal("hide");
         }
       }
     });
