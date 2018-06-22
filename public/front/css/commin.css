@@ -60,6 +60,7 @@ html,body{
   height: 100%;
   /* background-color: green; */
   position: relative;
+  background-color: #fff;
 }
 /* 底部区域 */
 .lt_footer{
