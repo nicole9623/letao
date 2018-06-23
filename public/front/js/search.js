@@ -86,6 +86,6 @@ $(function(){
    localStorage.setItem('lt_history',JSON.stringify(history));
    render();
    //页面需要跳转
-   location.href="searchList.html?key"+txt;
+   location.href="searchList.html?key="+txt;
  });
 });  
