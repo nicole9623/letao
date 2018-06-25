@@ -1,0 +1,33 @@
+.myform{
+  padding: 10px;
+}
+.vcode_wrap input{
+  width: 65%;
+}
+.vcode_wrap button.mui-btn{
+  width: 30%;
+  padding: 0;
+  margin: 0;
+  height: 40px;
+  line-height: 40px;
+}
+.myform .btn-register{
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  height: 40px;
+  line-height: 40px;
+}
+.tips{
+  padding-top:6px;
+}
+.tips .mui-pull-left{
+  font-size: 12px;
+}
+.tips a{
+  font-size: 12px;
+}
+.myform .disabled{
+  background-color: #ccc;
+  border: 1px solid #ccc;
+}
