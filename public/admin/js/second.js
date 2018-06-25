@@ -2,7 +2,7 @@
 //二级分类
 $(function(){
   var page =1;
-  var pageSize=5;
+  var pageSize=10;
   render();
   function render(){
     $.ajax({
